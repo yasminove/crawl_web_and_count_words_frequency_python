@@ -1,1 +1,4 @@
-# crawl_web_and_count_words_frequency_python
+# crawl web and count words frequency python
+
+📌 a program that utilizes Python to crawl a web page and counts the word frequency in it
+
